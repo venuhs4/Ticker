@@ -1,0 +1,2 @@
+D:\Try Projects\Ticker\Ticker\obj\Debug\Ticker.njsproj.CoreCompileInputs.cache
+D:\Try Projects\Ticker\Ticker\bin\Microsoft.NodejsTools.WebRole.dll

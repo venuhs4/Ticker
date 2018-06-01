@@ -1,0 +1,15 @@
+{
+  "name": "ticker",
+  "version": "0.0.0",
+  "description": "Ticker",
+  "main": "app.js",
+  "author": {
+    "name": "Dhruv"
+  },
+  "dependencies": {
+    "node-json-db": "^0.7.5",
+    "request": "^2.85.0",
+    "sync-request": "^6.0.0",
+    "telebot": "^1.2.6"
+  }
+}
